@@ -8,8 +8,10 @@
 # This application is vulnerable to Arbitrary File Upload to Remote Code Execution vulnerability.
 # Vulnerability proof:
 
-![image]()    
+![image](https://github.com/BigTiger2020/Car-Rental-Project/blob/main/upfile.png)    
 
-![image]()   
+![image](https://github.com/BigTiger2020/Car-Rental-Project/blob/main/rce.png)   
+
+![image](https://github.com/BigTiger2020/Car-Rental-Project/blob/main/shell.png)
 
 

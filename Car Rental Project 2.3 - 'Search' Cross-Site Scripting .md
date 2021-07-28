@@ -9,6 +9,13 @@
 # Vulnerable script:
 
 
-1.go to http://192.168.50.200/carrental/search.php
-2.Search box input payload ："><img src=1 onerror=alert(/xss/)>
-3.You will see your Javascript code executed.
+1.go to http://192.168.50.200/carrental/search.php  
+
+2.Search box input payload ："><img src=1 onerror=alert(/xss/)>  
+
+3.You will see your Javascript code executed.  
+
+# Vulnerability proof: 
+![image](https://github.com/BigTiger2020/Car-Rental-Project/blob/main/xss-1.png)  
+  
+![image](https://github.com/BigTiger2020/Car-Rental-Project/blob/main/xss-2.png)  

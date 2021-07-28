@@ -1,12 +1,9 @@
-* Exploit Title: Car Rental Project 2.3 - Directory traversal
-* Date: 28/7/2021
-* Vendor Homepage: https://phpgurukul.com/
-* Software Link: https://phpgurukul.com/car-rental-project-php-mysql-free-download/
-* Version : V 2.3
-* Vulnerability Type: Directory traversal
-*Tested on Windows 10 、XAMPP  
-* Vulnerability proof:
-![image](https://github.com/BigTiger2020/Car-Rental-Project/blob/main/bianli.png) 
- 
-
-
+* Exploit Title: Car Rental Project 2.3 - Directory traversal  
+* Date: 28/7/2021    
+* Vendor Homepage: https://phpgurukul.com/    
+* Software Link: https://phpgurukul.com/car-rental-project-php-mysql-free-download/  
+* Version : V 2.3    
+* Vulnerability Type: Directory traversal    
+* Tested on Windows 10 、XAMPP   
+* Vulnerability proof:    
+![image](https://github.com/BigTiger2020/Car-Rental-Project/blob/main/bianli.png)
